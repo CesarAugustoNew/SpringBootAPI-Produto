@@ -4,7 +4,7 @@ package br.com.cesar.spring_boot_essentials.database.model;
 import jakarta.persistence.*;
 import lombok.*;
 
-import java.math.BigDecimal;
+
 
 @Entity
 @Table(name = "exercicios")
